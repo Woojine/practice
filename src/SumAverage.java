@@ -15,7 +15,6 @@ public class SumAverage {
         }
         for(int j =0; j < Array.length; j++) {
             avg += (Array[j]/M*100)/N;
-
         }
         System.out.println(avg);
     }
